@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://xml.phpdox.net/src" full="DidYouKnow_Statement" namespace="" name="DidYouKnow_Statement" abstract="false" final="false" start="47" end="54">
+  <file path="/var/www/_modules/widgets_didyouknow/trunk/docs/en/phpdox/../../.." file="DidYouKnow.php" realpath="/var/www/_modules/widgets_didyouknow/trunk/DidYouKnow.php" size="1129" time="2015-03-14T10:23:25+13:00" unixtime="1426281805" sha1="b72ae8fb75d7cf35995803f5f35c4cbdf1283986" relative="DidYouKnow.php"/>
+  <extends full="DataObject" namespace="" name="DataObject"/>
+  <member name="db" type="array" visibility="public" line="49"/>
+</class>

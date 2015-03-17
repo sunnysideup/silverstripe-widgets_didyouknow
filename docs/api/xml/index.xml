@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/widgets_didyouknow/trunk">
+  <namespace name="">
+    <class name="DidYouKnow" src="DidYouKnow.php" description="author nicolaas [at] sunnysideup.co.nz" xml="classes/DidYouKnow.xml"/>
+    <class name="DidYouKnow_Statement" src="DidYouKnow.php" xml="classes/DidYouKnow_Statement.xml"/>
+  </namespace>
+</index>
