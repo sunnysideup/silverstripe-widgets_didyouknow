@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<source xmlns="http://xml.phpdox.net/src">
-  <dir name="/var/www/_modules/widgets_didyouknow/trunk">
-    <file name="_config.php" size="434" time="2015-03-14T10:23:25+13:00" unixtime="1426281805" sha1="0beaf39c1630b4b21b043fdde3aec0fb444f7ffe" xml="tokens/_config.php.xml"/>
-    <file name="DidYouKnow.php" size="1129" time="2015-03-14T10:23:25+13:00" unixtime="1426281805" sha1="b72ae8fb75d7cf35995803f5f35c4cbdf1283986" xml="tokens/DidYouKnow.php.xml"/>
-  </dir>
-</source>
